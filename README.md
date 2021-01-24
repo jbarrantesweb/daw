@@ -7,3 +7,4 @@ Mahamadou Sillah
 Armando Gregorio
 Cristian Serrano Alfonso
 Lounis Touzouirt
+Óscar Ostáriz
