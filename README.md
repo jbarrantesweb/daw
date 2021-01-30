@@ -17,4 +17,3 @@ Luis Miguel García
 David Fuentes
 Luis Rodellar
 Ruben Bitrian
-Jorge Barrantes
